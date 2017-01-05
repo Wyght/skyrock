@@ -1,6 +1,6 @@
 # skyrock
 #practice for wyght.com
-development branch for conflict and tags
+learning tags create and delete
 bower-first, using npm also: exciting
 edit with malice, to cause deeper conflict
 1/4/17
